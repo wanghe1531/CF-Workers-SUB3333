@@ -1,7 +1,7 @@
 
 // 部署完成后在网址后面加上这个，获取自建节点和机场聚合节点，/?token=auto或/auto或
 
-let mytoken = 'auto';
+let mytoken = 'wanghe1531';
 let guestToken = ''; //可以随便取，或者uuid生成，https://1024tools.com/uuid
 let BotToken = ''; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
 let ChatID = ''; //可以为空，或者@userinfobot中获取，/start
@@ -13,7 +13,12 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://cfxr.eu.org/getSub
+https://small.wanghe.ggff.net/97e66942-4534-4f4d-896b-cf3d54558a93/pty
+https://calm.wanghe.ggff.net/68cbfa0b-3c92-4883-bc83-0dc81924f5fb?sub
+https://nnk.wanghe.ggff.net/wanghe1531/pty
+https://red.wanghe1531.nyc.mn/wanghe1531?sub
+https://panel.wanghe1531.nyc.mn/sub/normal/N2DBDAnJa3vTN9OO?app=clash#%F0%9F%92%A6%20BPB%20Normal
+https://3322new.wanghe.ggff.net/45b4912e-797f-4056-ab14-c4a7d0141215
 `;
 
 let urls = [];
@@ -825,4 +830,5 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 			headers: { "Content-Type": "text/plain;charset=utf-8" }
 		});
 	}
+
 }
