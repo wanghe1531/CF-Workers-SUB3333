@@ -13,12 +13,14 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://small.wanghe.ggff.net/97e66942-4534-4f4d-896b-cf3d54558a93/pty
-https://calm.wanghe.ggff.net/68cbfa0b-3c92-4883-bc83-0dc81924f5fb?sub
-https://nnk.wanghe.ggff.net/wanghe1531/pty
+https://sub.wanghe.online/767f7bba-04d0-4315-8cd8-87e8e520f401?clash
+https://panel.wanghe1531.site/sub/normal/ZohezVPRXGH!8RQL?app=clash#%F0%9F%92%A6%20BPB%20Normal
+https://s.jhb.edu.kg/sub?target=clash&url=http%3A%2F%2Ff28f.wanghe1531.site%2F30aa3c9d-d778-46d5-acc9-13f793d8b397%2Fsub&insert=false
+https://cc3e.wanghe.ggff.net/281fb4a0-500c-4f0e-bff9-92ee38a0b890/pcl
+https://s.jhb.edu.kg/sub?target=clash&url=https%3A%2F%2F3322new.wanghe.ggff.net%2F45b4912e-797f-4056-ab14-c4a7d0141215%2Fsub&insert=false
 https://red.wanghe1531.nyc.mn/wanghe1531?sub
-https://panel.wanghe1531.nyc.mn/sub/normal/N2DBDAnJa3vTN9OO?app=clash#%F0%9F%92%A6%20BPB%20Normal
-https://3322new.wanghe.ggff.net/45b4912e-797f-4056-ab14-c4a7d0141215
+https://nnk.wanghe.ggff.net/wanghe1531/pcl
+https://small.wanghe.ggff.net/97e66942-4534-4f4d-896b-cf3d54558a93/pcl
 `;
 
 let urls = [];
@@ -832,3 +834,4 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
