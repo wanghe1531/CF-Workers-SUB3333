@@ -16,6 +16,7 @@ let MainData = `
 https://sub.wanghe.online/767f7bba-04d0-4315-8cd8-87e8e520f401?clash
 https://panel.wanghe1531.site/sub/normal/ZohezVPRXGH!8RQL?app=clash#%F0%9F%92%A6%20BPB%20Normal
 https://s.jhb.edu.kg/sub?target=clash&url=http%3A%2F%2Ff28f.wanghe1531.site%2F30aa3c9d-d778-46d5-acc9-13f793d8b397%2Fsub&insert=false
+https://sub.wanghe1531.nyc.mn/sub?uuid=281fb4a0-500c-4f0e-bff9-92ee38a0b890&encryption=none&security=tls&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560&sni=cc3e.wanghe.ggff.net&fp=randomized
 `;
 
 let urls = [];
@@ -829,5 +830,6 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
 
 
