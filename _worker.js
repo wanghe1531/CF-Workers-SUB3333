@@ -14,7 +14,7 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 http://f28f.wanghe.online/30aa3c9d-d778-46d5-acc9-13f793d8b397/sub
-https://sub.wanghe1531.nyc.mn/sub?uuid=281fb4a0-500c-4f0e-bff9-92ee38a0b890&encryption=none&security=tls&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560&sni=cc3e.wanghe.ggff.net&fp=randomized
+https://calm.wanghe.ggff.net/sub?token=50adffb3b225351ed2a49a4d6c46f436
 `;
 
 let urls = [];
@@ -828,6 +828,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
 
 
 
