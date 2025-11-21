@@ -13,6 +13,16 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
+vless://281fb4a0-500c-4f0e-bff9-92ee38a0b890@104.20.25.49:443?encryption=none&security=tls&sni=cc3e.wanghe.ggff.net&fp=random&insecure=1&allowInsecure=1&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560#CFnat-DDNS-HK
+vless://281fb4a0-500c-4f0e-bff9-92ee38a0b890@104.20.20.228:443?encryption=none&security=tls&sni=cc3e.wanghe.ggff.net&fp=random&insecure=1&allowInsecure=1&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560#CFnat-DDNS-HK
+vless://281fb4a0-500c-4f0e-bff9-92ee38a0b890@104.20.21.81:443?encryption=none&security=tls&sni=cc3e.wanghe.ggff.net&fp=random&insecure=1&allowInsecure=1&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560#CFnat-DDNS-HK
+vless://281fb4a0-500c-4f0e-bff9-92ee38a0b890@104.20.22.215:443?encryption=none&security=tls&sni=cc3e.wanghe.ggff.net&fp=random&insecure=1&allowInsecure=1&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560#CFnat-DDNS-HK
+vless://281fb4a0-500c-4f0e-bff9-92ee38a0b890@104.20.19.64:443?encryption=none&security=tls&sni=cc3e.wanghe.ggff.net&fp=random&insecure=1&allowInsecure=1&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560#CFnat-DDNS-HK
+vless://281fb4a0-500c-4f0e-bff9-92ee38a0b890@104.20.24.252:443?encryption=none&security=tls&sni=cc3e.wanghe.ggff.net&fp=random&insecure=1&allowInsecure=1&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560#CFnat-DDNS-HK
+vless://281fb4a0-500c-4f0e-bff9-92ee38a0b890@104.20.23.135:443?encryption=none&security=tls&sni=cc3e.wanghe.ggff.net&fp=random&insecure=1&allowInsecure=1&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560#CFnat-DDNS-HK
+vless://281fb4a0-500c-4f0e-bff9-92ee38a0b890@104.20.19.164:443?encryption=none&security=tls&sni=cc3e.wanghe.ggff.net&fp=random&insecure=1&allowInsecure=1&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560#CFnat-DDNS-HK
+vless://281fb4a0-500c-4f0e-bff9-92ee38a0b890@127.0.0.1:1234?encryption=none&security=tls&sni=cc3e.wanghe.ggff.net&fp=random&insecure=0&allowInsecure=0&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560#CFnat-DDNS-%E6%9C%AC%E5%9C%B0
+vless://281fb4a0-500c-4f0e-bff9-92ee38a0b890@bash.wanghe1531.nyc.mn:443?encryption=none&security=tls&sni=cc3e.wanghe.ggff.net&fp=random&insecure=1&allowInsecure=1&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560#CFnat-DDNS-HK
 vless://4a9a9666-f59f-4761-9330-f1e9a2939754@proxyipv4.wanghe.vip:443?type=tcp&encryption=none&security=reality&pbk=5RaFHxl4i3Z6erMzrSHGRi0rnG_C2bgHf3UzDVcEeGY&fp=chrome&sni=ip.sb&sid=75&spx=%2F#proxyip-e25l8pcu
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206b2VwWlk1NWhReXFZWGNyL0ZtY1FuckFaa1NoRkh4eVdBaWtuYmxFblJXYz06YWI2QmMyTU9GSDNtRmhnZFFrMUMwKzZFVVQ1VTJYY3g2Tk5QK3dDbTUxST0@proxyipv4.wanghe.vip:16017?type=tcp#acckhk-ss-5te27dl2
 vless://425015dc-0135-4e99-9c22-3963fb86e321@proxyipv4.wanghe.vip:8443?type=ws&encryption=none&path=%2F%3Fed%3D2560&host=proxyipv4.wanghe.vip&security=tls&fp=randomized&alpn=h2%2Chttp%2F1.1%2Ch3#acckhk-vless-tls-lb8jdyme
@@ -852,6 +862,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
 
 
 
