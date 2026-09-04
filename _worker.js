@@ -21,21 +21,22 @@ vless://d79ac5b3-2c3c-40ac-a729-4893b922d30d@193.134.211.217:8885?encryption=non
 vless://d79ac5b3-2c3c-40ac-a729-4893b922d30d@193.134.211.217:8886?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=hwE8usfCyxBwWEzLQRRSWVNKgmc8sZGkfZk1vhjZGQ8&sid=58817d48ae5b454b&type=grpc&authority=&serviceName=grpc&mode=gun#HK-%E9%87%8E%E8%8D%89%E4%BA%91%20%7C%20gRPC-Reality_8886
 anytls://OLZroluWoKtb9ovqU1fwmA%3D%3D@193.134.211.217:8887?insecure=1&security=tls&sni=addons.mozilla.org&type=tcp&headerType=none#HK-%E9%87%8E%E8%8D%89%E4%BA%91%20%7C%20AnyTLS_8887
 naive+https://d79ac5b32c3c40ac:d79ac5b32c3c40ac@193.134.211.217:8888?security=tls&sni=addons.mozilla.org&type=tcp&headerType=none#HK-%E9%87%8E%E8%8D%89%E4%BA%91%20%7C%20Naive_8888
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NjFmNDk5Ni1hNDMwLTQ0ODItYTEwMy1hY2VmMDcxMzI4MWE@82.38.46.80:26912?#Hong%20Kong%2C%20Hong%20Kong
+ss://YWVzLTI1Ni1nY206ODZiMzQ2MDUtNDEzZi00YzMwLWEyMTItNTkwZDNkNzhhNjM5@permission_level_01.unclemanco.com:22061?#Hong%20Kong%2C%20Hong%20Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NjFmNDk5Ni1hNDMwLTQ0ODItYTEwMy1hY2VmMDcxMzI4MWE@82.38.46.80:26911?#Taipei%2C%20TPE%2C%20Taiwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NjFmNDk5Ni1hNDMwLTQ0ODItYTEwMy1hY2VmMDcxMzI4MWE@82.38.46.80:26906?#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NjFmNDk5Ni1hNDMwLTQ0ODItYTEwMy1hY2VmMDcxMzI4MWE@ydyh1.nanbei-host.com:26906?#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NjFmNDk5Ni1hNDMwLTQ0ODItYTEwMy1hY2VmMDcxMzI4MWE@82.38.46.80:26908?#28%2C%20Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NjFmNDk5Ni1hNDMwLTQ0ODItYTEwMy1hY2VmMDcxMzI4MWE@82.38.46.80:26903?#Sydney%2C%20NSW%2C%20Australia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RlFGYmdEME5DZzY4cUlaYm5GSDQ2TWx3UVBiemw4NA@194.195.121.223:1080?#Sydney%2C%20NSW%2C%20Australia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NjFmNDk5Ni1hNDMwLTQ0ODItYTEwMy1hY2VmMDcxMzI4MWE@82.38.46.80:26902?#Canada
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882?#QC%2C%20Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000?#QC%2C%20Canada
 vless://9e881599-58dc-468d-8962-d30c23a6bade@grew-measurement-packard-chelsea.trycloudflare.com:443?encryption=none&security=tls&sni=grew-measurement-packard-chelsea.trycloudflare.com&type=ws&host=grew-measurement-packard-chelsea.trycloudflare.com&path=%2Fvless-ws#CF-Tunnel
 vless://9e881599-58dc-468d-8962-d30c23a6bade@95.216.12.48:25249?encryption=none&security=none&type=ws&host=95.216.12.48&path=%2Fvless-ws#Native-IP-Direct
 vless://9e881599-58dc-468d-8962-d30c23a6bade@static.48.12.216.95.clients.your-server.de:25249?encryption=none&security=none&type=ws&host=static.48.12.216.95.clients.your-server.de&path=%2Fvless-ws#Native-Domain-Direct
 vless://f8443e52-070f-4a68-aa57-ddb5812c64ab@a60555-6c9e.a.onjrnm.co.uk:443?encryption=none&security=tls&sni=a60555-6c9e.a.onjrnm.co.uk&fp=chrome&type=ws&host=a60555-6c9e.a.onjrnm.co.uk&path=%2F#Vl-ws-tls-e77f3edeef45
-vless://13d2e3f2-88a2-4e78-a999-d34640c59f33@104.19.201.24:443?encryption=none&security=tls&sni=calm.wanghe.ggff.net&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=calm.wanghe.ggff.net&path=%2Fmember%2Fmall%3Fed%3D2560#edgetunnel
-vless://13d2e3f2-88a2-4e78-a999-d34640c59f33@104.19.201.24:443?encryption=none&security=tls&sni=calm.wanghe.ggff.net&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=calm.wanghe.ggff.net&path=%2Fmember%2Fmall%3Fed%3D2560#edgetunnel
-trojan://wanghe1531@www.visa.com.sg:8443?security=tls&sni=nnk.wanghe.ggff.net&fp=random&type=ws&host=nnk.wanghe.ggff.net&path=%2F%3Fed%3D2560#nnk.wanghe.ggff.net
-vless://97e66942-4534-4f4d-896b-cf3d54558a93@www.visa.com.sg:8443?encryption=none&security=tls&sni=small.wanghe.ggff.net&fp=random&type=ws&host=small.wanghe.ggff.net&path=%2F%3Fed%3D2560#small.wanghe.ggff.net
-vless://281fb4a0-500c-4f0e-bff9-92ee38a0b890@www.visa.com.sg:8443?encryption=none&security=tls&sni=cc3e.wanghe.ggff.net&fp=random&type=ws&host=cc3e.wanghe.ggff.net&path=%2F%3Fed%3D2560#cc3e.wanghe.ggff.net
-vless://13d2e3f2-88a2-4e78-a999-d34640c59f33@calm.wanghe.ggff.net:443?encryption=none&security=tls&sni=calm.wanghe.ggff.net&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=calm.wanghe.ggff.net&path=%2Fmember%2Fmall%3Fed%3D2560#edgetunnel
-trojan://wanghe1531@red.wanghe.online:443?allowInsecure=1&insecure=1&security=tls&sni=red.wanghe.online&fp=random&alpn=h3&type=ws&host=red.wanghe.online&path=%2F%3Fed%3D2560#epeius
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NjFmNDk5Ni1hNDMwLTQ0ODItYTEwMy1hY2VmMDcxMzI4MWE@82.38.46.80:26908?#28%2C%20Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NjFmNDk5Ni1hNDMwLTQ0ODItYTEwMy1hY2VmMDcxMzI4MWE@82.38.46.80:26906?#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NjFmNDk5Ni1hNDMwLTQ0ODItYTEwMy1hY2VmMDcxMzI4MWE@82.38.46.80:26911?#Taipei%2C%20TPE%2C%20Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NjFmNDk5Ni1hNDMwLTQ0ODItYTEwMy1hY2VmMDcxMzI4MWE@82.38.46.80:26912?#Hong%20Kong%2C%20Hong%20Kong
+
 
 `;
 
